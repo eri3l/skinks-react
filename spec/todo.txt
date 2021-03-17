@@ -1,0 +1,11 @@
+* read JSON data
+* find min/max for sizes
+* create list of sites, covers, easting/Northin
+
+create filter UI:
+* select 3x
+* range 2x
+
+
+* create mapping from skink to its images
+* create search results and their display
