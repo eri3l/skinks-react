@@ -1,9 +1,12 @@
 # skinks-web-react
 
-This earlier version runs live, but has not been updated with latest changes:
+This earlier version of runs live, but has not been updated with latest changes:
 https://skinks-nz.web.app/
 
-Before you running, do:
+Built with React JS. 
+
+
+When making changes, before you running, do:
 ```
 npm install 
 ```
