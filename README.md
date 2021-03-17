@@ -1,6 +1,6 @@
 # skinks-web-react
 
-This earlier version of runs live, but has not been updated with latest changes:
+This earlier version of the Chesterfield skink search tool runs live, but has not been updated with latest changes:
 https://skinks-nz.web.app/
 
 Built with React JS. 
