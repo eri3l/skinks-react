@@ -1,7 +1,7 @@
 # skinks
 
 This earlier version runs live, but has not been updated with latest changes:
-** [https://skinks-nz.web.app/] **
+https://skinks-nz.web.app/
 
 Before you running, do:
 ```
