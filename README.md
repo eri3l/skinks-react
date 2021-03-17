@@ -1,4 +1,4 @@
-# skinks
+# skinks-web-react
 
 This earlier version runs live, but has not been updated with latest changes:
 https://skinks-nz.web.app/
